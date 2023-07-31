@@ -1,4 +1,5 @@
-import logo from './logo.svg';
+// import logo from './logo.svg';
+// 두번째 앱입니다.
 import './App.css';
 import { useState } from 'react';
 
